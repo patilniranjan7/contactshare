@@ -19,7 +19,7 @@ import AddStafPage from "./page/AddStaffPage/AddStafPage.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/login",
+    path: "/",
     element: <App />,
   },
   {
