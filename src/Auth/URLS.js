@@ -1,0 +1,1 @@
+export const END_POINT = 'https://cprinfo-2ee7f-default-rtdb.asia-southeast1.firebasedatabase.app/'
